@@ -1,0 +1,11 @@
+.vertical{
+  display: block;
+}
+
+.horizontal{
+  display: inline-block;
+}
+
+.charts{
+  padding: 10px;
+}
